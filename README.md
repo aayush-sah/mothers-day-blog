@@ -2,7 +2,7 @@
 
 A heartfelt blog website built with **Next.js** and **Tailwind CSS** as a tribute to all amazing mothers around the world 💐
 
-![Preview](./public/images/m1.jpg)
+![Preview](./public/images/m1.jpEg)
 
 ## 💖 Features
 
